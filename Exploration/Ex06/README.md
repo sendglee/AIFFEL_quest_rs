@@ -5,14 +5,15 @@
 
 # PRT(Peer Review Template)
 - [X]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
-        ![alt text](./capture/image.png)
     - 전처리부터 학습까지 완료되어 추론한 모습을 확인할 수 있었습니다.
+        ![alt text](./capture/image.png)
+
     
 - [X]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
-
-    ![alt text](./capture/image-1.png)
     - 프로젝트의 핵심인 모델 설계 부분에서 단계별로 주석을 작성해주셔서 이해하기 편했습니다.
+    ![alt text](./capture/image-1.png)
+
         
 - [X]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
